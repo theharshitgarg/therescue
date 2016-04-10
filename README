@@ -1,0 +1,7 @@
+To start just move to the therescue folder
+Type python manage.py runserver
+Open Web Browser and type localhost:8000
+To access admin panel:
+Open Web Browser and type localhost:8000/admin
+username : admin123
+password : ASDF1234
